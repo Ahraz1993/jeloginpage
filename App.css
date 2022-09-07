@@ -1,0 +1,29 @@
+.container{
+  background-color: aqua;
+  border: 1px solid aqua ;
+  border-radius: 20px;
+}
+
+#Message{
+  font-size: 50px;
+}
+#head,#Message{
+  text-align: center;
+}
+
+*{
+  padding: 20px;
+}
+/* css for signup       */
+#container2{background-color: aqua;
+  border: 1px solid aqua ;
+  border-radius: 20px;
+
+}
+#SignupHead{
+  text-align: center;
+}
+#SignupMessage{
+  text-align: center;
+  font-size: 200%;
+}
